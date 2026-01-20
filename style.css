@@ -239,5 +239,10 @@ height: 100vh;
  .nav-list_li_a {
    font-size: 20px;
  }
+ 
+.resume-main {
+    padding-top: 30px;
+}
+
  }
 
